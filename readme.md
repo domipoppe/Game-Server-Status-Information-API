@@ -46,6 +46,7 @@ UTF-8 JSON:
 **Error Handling:**
 If there is an error in your call, the API will tell you the issue in a JSON response "error".
 If an error appears the header is: 400
+
 Following error messages might appear:
 
  - The server is not online
