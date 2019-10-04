@@ -28,7 +28,9 @@ https://api.dominic-poppe.dev/gameserver_information/v1/get_information
 - port (Simply your port)
 
 **Response:**
+
 If the request was valid the header is: 201
+
 UTF-8 JSON:
 
     { 
