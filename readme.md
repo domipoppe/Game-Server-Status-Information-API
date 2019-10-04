@@ -17,6 +17,7 @@
 Endpoint: https://api.dominic-poppe.dev/gameserver_information/v1/
 
 https://api.dominic-poppe.dev/gameserver_information/v1/get_information
+
 **Route: get_information**
 **Request Type: POST**
 **POST Parameters:**
