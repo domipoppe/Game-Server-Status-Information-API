@@ -58,10 +58,13 @@ I do not store any data of you. The API is free to use for everyone.
 If you cause too much requests/traffic I might blacklist the IP.
 
 **I want a game added!**
+
 Post an issue.
 
 **I found an issue**
+
 Post an issue.
 
 **Will you release the sources?**
+
 Maybe, if I added a couple of games.
