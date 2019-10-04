@@ -20,9 +20,9 @@ https://api.dominic-poppe.dev/gameserver_information/v1/get_information
 
 **Route: get_information**
 
-**Request Type: POST**
+**Request Type: GET**
 
-**POST Parameters:**
+**GET Parameters:**
 - game (See in top of the currently supported games what parameter you must insert for game)
 - serverip (Simply your server IP)
 - port (Simply your port)
